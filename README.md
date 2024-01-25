@@ -1,3 +1,5 @@
+[![Flutter Test](https://github.com/Logic-Koike/flutter-tutorial-testing/actions/workflows/flutter_test.yaml/badge.svg)](https://github.com/Logic-Koike/flutter-tutorial-testing/actions/workflows/flutter_test.yaml)
+
 # testing_app
 
 A new Flutter project.
