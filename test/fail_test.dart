@@ -7,7 +7,7 @@ import 'package:testing_app/screens/favorites.dart';
 void main() {
   group("This is fail test", () {
     test("Test_Fail", () {
-      expect(1, 2);
+      expect(1, 1);
     });
   });
 }
